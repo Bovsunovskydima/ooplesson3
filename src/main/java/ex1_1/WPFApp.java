@@ -1,4 +1,4 @@
-/*
+package ex1_1;/*
 * запускається за допомогою maven:
 * mvn clean compile
 * mvn javafx:run

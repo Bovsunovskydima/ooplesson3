@@ -1,3 +1,5 @@
+package ex1_1;
+
 import javax.swing.*;
 
 public class WFApp {
